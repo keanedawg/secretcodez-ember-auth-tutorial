@@ -7,6 +7,10 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('secret', {
+    path: 'C:/Users/Cameron Fife/AppData/Local/Programs/Git/'
+  });
+  this.route('login');
 });
 
 export default Router;
