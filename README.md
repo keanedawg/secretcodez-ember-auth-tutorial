@@ -1,7 +1,7 @@
 # secretcodez
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Application used to learn about how tokens learn in authenticaiton. This tutorial is excellent for beginners like myself with authentication tools.
+
 
 ## Prerequisites
 
